@@ -1,0 +1,61 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card{
+    border: 1px grey solid;
+    padding: 20px;
+    margin: 10px;
+    width: 250px;
+}
+img{
+    width: 100%;
+}
+.descricion{
+    font-size: 0.8em;
+    text-align: justify;
+}
+#card_container{
+    display: flex;
+    flex-wrap: nowrap;
+}
+h4{
+    margin-top: 5px;
+}
+.comentarios_container{
+    margin-left: 10px;
+}
+#pechaSesion{
+    float: right;
+    font-size: 1.2em;
+    margin-right: 30px;
+}
+h2{
+    margin-left: 10px;
+}
+
+table{
+    margin: 30px;
+}
+.eliminar{
+    background-color: red;
+    color: white;
+    border: transparent;
+    text-align: center;
+}
+.btn-eliminar{
+    text-align: center;
+}
+.verde{
+    color: green;
+    font-weight: bold;
+}
+.vermello{
+    color: red;
+    font-weight: bold;
+
+}
+table img{
+    width: 200px;
+    height: 125px;
+}

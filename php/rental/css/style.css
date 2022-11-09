@@ -1,0 +1,35 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table{
+    text-align: center;
+    border-collapse: collapse;
+    margin: 20px 50px 50px 50px;
+}
+th,td{
+    text-align: center;
+    padding: 0 10px 0 10px;
+}
+td{
+    border:1px solid black;
+    
+}
+th{
+    background-color: beige;
+}
+input, textarea, select, form>button {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display:inline-block;         
+    vertical-align:middle;
+    margin-left:20px
+}
+#rexistrar{
+    margin-left: 0;
+}
+
+label {
+    display: inline-block;
+    width: 140px;
+    text-align: left;
+}
